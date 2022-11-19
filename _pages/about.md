@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! Now I am job hunting as a fresh graduate :D.
+Welcome! In this December, I will be a Researcher in AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center.
 
 I earned my Ph.D. degree in September 2022 at the [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) (EEE), [The University of Hong Kong](https://www.hku.hk/), under the supervision of Prof. [Ngai Wong](https://www.eee.hku.hk/~nwong/) and Prof. [Graziano Chesi](https://www.eee.hku.hk/~chesi/). Prior to that, I received my B.S. degree in the [School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/) from [Wuhan University](https://en.whu.edu.cn/) in June 2018.
 
