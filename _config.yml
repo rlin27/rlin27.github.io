@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=gx0RITkAAAAJ&hl=zh-TW"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,17 +99,17 @@ author:
   github           : "rlin27"
   google_plus      :
   keybase          :
-  instagram        : "ruilin0212"
+  instagram        : #"ruilin0212"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "rlin27"
   orcid            : "https://orcid.org/0000-0003-0744-0263"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "RuiLIN96"
+  steam            : #"RuiLIN96"
   tumblr           :
-  twitter          : "RuiLIN99486022"
+  twitter          : #"RuiLIN99486022"
   vine             :
   weibo            :
   xing             :
