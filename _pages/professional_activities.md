@@ -17,6 +17,6 @@ title: "Professional Activities"
 1. Advanced Algebra and Analytic Geometry (Tutor, Spring 2018)
 
 ## Duties
-1. Conference reviewer of NeurIPS'22, ICML'22, CVPR'22, ICPR'22, CVPR'21, ICCV'21.
+1. Conference reviewer of NeurIPs'23, ICML'23, NeurIPs'22, ICML'22, CVPR'22, ICPR'22, CVPR'21, ICCV'21.
 2. Contest Judge of [EDAthon'21](https://sites.google.com/view/ceda-hk/edathon-2021).
-3. Part time Research Assistant at the University of Hong Kong, dealing with additional projects including my regular research tasks. (2022.6 - 2022.8)
+3. Part-time Research Assistant at the University of Hong Kong, dealing with additional projects, including my regular research tasks. (2022.6 - 2022.8)
