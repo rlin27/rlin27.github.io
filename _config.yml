@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui LIN"
+title                    : "LIN Rui"
 title_separator          : "-"
-name                     : &name "Rui LIN"
+name                     : &name "LIN Rui"
 description              : &description "personal description"
 url                      : https://rlin27.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui LIN (林睿)"
+  name             : "LIN Rui (林睿)"
   avatar           : "profile_rui.jpg"
   bio              : "E-mail: ruilin0212 [at] gmail [dot] com."
   location         : 
