@@ -1,0 +1,5 @@
+---
+permalink: /photos/ 
+title: "Photos"
+---
+
