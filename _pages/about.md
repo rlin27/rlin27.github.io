@@ -1,11 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "LIN Rui's Homepage"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 Welcome! I am a Researcher (2022.12 - present) in the AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center. In the current stage, our R&D areas include explainable and trustworthy AI, data processing technologies, framework design, and innovative software architecture design based on these innovations. Our R&D product contexts include Huawei's AI framework (MindSpore), cloud-native software, serverless computing stack, etc.
 
