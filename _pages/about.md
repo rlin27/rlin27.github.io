@@ -11,7 +11,7 @@ My current research interests include neural network compression for deployments
 
 Welcome to contact me if you are interested in our lab or either of those research topics!
 
-*(Last update: 2023.03.22)*
+*(Last update: 2023.07.05)*
 
 
 
