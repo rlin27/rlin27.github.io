@@ -1,5 +1,5 @@
 ---
-title: 'Paper Sharing: Tensor Data Platform & Deep Lake'
+title: 'Data Warehouse Learning Notes (1)'
 date: 2023-07-12
 permalink: /posts/2023/07/blog-post-1/
 tags:
