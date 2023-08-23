@@ -1,6 +1,6 @@
 ---
 title: 'Data Warehouse Learning Notes (1)'
-date: 2023-07-12
+date: 2023-07-18
 permalink: /posts/2023/07/blog-post-2/
 tags:
   - warehouse
