@@ -1,5 +1,5 @@
 ---
-title: 'Data Warehouse Learning Notes (1)'
+title: 'Data Warehouse: Basic Concepts'
 date: 2023-07-18
 permalink: /posts/2023/07/blog-post-2/
 tags:
