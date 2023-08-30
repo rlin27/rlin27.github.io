@@ -5,10 +5,6 @@ main:
 
   - title: "Professional Activities"
     url: /professional_activites/    
-
-
-  - title: "Blog Posts"
-    url: /posts/
   
   - title: "Personal"
     url: /personal/
