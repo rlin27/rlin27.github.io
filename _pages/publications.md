@@ -9,6 +9,7 @@ title: "Publications"
 + Mao, R., Wen, B., Arman, K., Zhao Y., Ann Franchesca, L., **Lin, R.**, Wong, N., Michael, N., Hu, X., Sheng, X., Catherine, G., John Paul, S. & Li, C. (2022). Experimentally Realized Memristive Memory Augmented Neural Network. Nature Communications. [[PDF]](https://assets.researchsquare.com/files/rs-1821052/v1_covered.pdf?c=1657039003)
 
 ## Conference
++ Jason Chun Lok Li *, **LIN, R.** *, Zhou, J., Lam E., Wong, N. (2023). A Unifying Tensorview for Lightweight CNNs. In proceeding of the 15th International Conference on ASIC (ASICON'23). [[PDF Coming Soon](http://asicon.org/)]
 + Huang, B., Tao, C., **LIN, R.**, Wong, N. (2023). Frequency Regularization for Improving Adversarial Robustness. In proceedings of the 2nd International Workshop on Practical Deep Learning in the Wild at the AAAI Conference on Artificial Intelligence (Workshop at AAAI'23) [[PDF](\files\pdf\AAAI2023_Workshop.pdf)][[Codes](https://github.com/Harr7y/FR)]
 + Ran, J., **LIN, R.**, Li, C., Zhou, J., Wong, N. (2023). PECAN: A Product-Quantized Content Addressable Memory Network. In proceedings of the Design, Automation and Test in Europe Conference (DATE'23) [[PDF](\files\pdf\PECAN.pdf)]
 + **Lin, R.**, Cong, C. & Wong, N. (2022). Coarse to Fine: Image Restoration Boosted by Multi-Scale Low-Rank Tensor Completion. In 2022 26th International Conference on Pattern Recognition (ICPR'22), IEEE.  [[PDF](\files\pdf\ICPR_2022_C2F.pdf)][[Codes](https://github.com/rlin27/C2FLRTC)][[Poster](\files\pdf\ICPR2022_ePoster.pdf)]
