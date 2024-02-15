@@ -3,6 +3,9 @@ permalink: /photos/
 title: "Photos"
 ---
 <table><tr>
+<td> <b>2023.12.24 @ Sunset in the way from Wuhan to Shenzhen </b> <br> <img src="/images/photos/20240215_WH_SZ.jpg" height=200 border=0> </td>  
+</tr></table>
+<table><tr>
 <td> <b>2023.12.24 @ NY City </b> <br> <img src="/images/photos/20231224_NY_City.jpg" height=200 border=0> </td>
 <td> <b>2023.11.26 @ HKCEC </b> <br> <img src="/images/photos/20231126_nitendo.jpg" height=200 border=0> </td>
 </tr></table>
