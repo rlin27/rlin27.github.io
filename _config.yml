@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/in/rlin27
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./files/img/rlin_avatar.jpg
 favicon: ./files/img/rlin_favicon.jpg
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./files/img/rlin_favicon.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
