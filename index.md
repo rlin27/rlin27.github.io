@@ -7,6 +7,14 @@ layout: homepage
 Welcome! I am a Researcher (Dec. 2022 - present) in the AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center. Before I joined Huawei, I earned my Ph.D. degree in September 2022 at the [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) (EEE), [The University of Hong Kong](https://www.hku.hk/), under the supervision of Prof. [Ngai Wong](https://www.eee.hku.hk/~nwong/) and Prof. [Graziano Chesi](https://www.eee.hku.hk/~chesi/). Prior to that, I received my B.S. degree in the [School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/) from [Wuhan University](https://en.whu.edu.cn/) in June 2018.
 
 ## Projects
+<h4 style="margin:0 10px 0;">Data Curation: Pretrain and SFT Data Preparation for Large Text-to-Video Generation Models and the Design of Tag System for Multimodal Data</h4>
+* **Institution**: AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center.
+* **Time**: Jul. 2024 - Present
+* **Project Overview**:
+  1. This work aims to boost the performance of Xiaoyi, who is Huawei’s AI agent. 
+  2. For data preparation, the primary challenges are: (a) determining the proper ratio of data belonging to different categories, (b) maintaining the diversity of the data while making the semantics concentrated, and (c) improving the efficiency of data selection by utilizing less labor resources.
+  3. For tag system design, the goal is to develop a system that can cover Xiaoyi’s application scenarios, while taking the correlation between different modal data into consideration.
+
 <h4 style="margin:0 10px 0;">GTN-F: A General Tensor-Native Format Representation of Multimodal Data</h4>
 * **Institution**: AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center.
 * **Time**: Jul. 2023 - Jul. 2024
