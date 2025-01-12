@@ -9,7 +9,7 @@ Welcome! I am a Researcher (Dec. 2022 - present) in the AI Framework & Data Tech
 ## Projects
 <h4 style="margin:0 10px 0;">Data Curation: Pretrain and SFT Data Preparation for Large Text-to-Video Generation Models and the Design of Tag System for Multimodal Data</h4>
 * **Institution**: AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center.
-* **Time**: Jul. 2024 - Present
+* **Time**: Jul. 2024 - Dec. 2024
 * **Project Overview**:
   1. This work aims to boost the performance of Xiaoyi, who is Huawei’s AI agent. 
   2. For data preparation, the primary challenges are: (a) determining the proper ratio of data belonging to different categories, (b) maintaining the diversity of the data while making the semantics concentrated, and (c) improving the efficiency of data selection by utilizing less labor resources.
