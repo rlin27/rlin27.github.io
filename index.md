@@ -4,32 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Researcher (Dec. 2022 - present) in the AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center. Before I joined Huawei, I earned my Ph.D. degree in September 2022 at the [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) (EEE), [The University of Hong Kong](https://www.hku.hk/), under the supervision of Prof. [Ngai Wong](https://www.eee.hku.hk/~nwong/) and Prof. [Graziano Chesi](https://www.eee.hku.hk/~chesi/). Prior to that, I received my B.S. degree in the [School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/) from [Wuhan University](https://en.whu.edu.cn/) in June 2018.
-
-## Projects
-<h4 style="margin:0 10px 0;">Data Curation: Pretrain and SFT Data Preparation for Large Text-to-Video Generation Models and the Design of Tag System for Multimodal Data</h4>
-* **Institution**: AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center.
-* **Time**: Jul. 2024 - Dec. 2024
-* **Project Overview**:
-  1. This work aims to boost the performance of Xiaoyi, who is Huawei’s AI agent. 
-  2. For data preparation, the primary challenges are: (a) determining the proper ratio of data belonging to different categories, (b) maintaining the diversity of the data while making the semantics concentrated, and (c) improving the efficiency of data selection by utilizing less labor resources.
-  3. For tag system design, the goal is to develop a system that can cover Xiaoyi’s application scenarios, while taking the correlation between different modal data into consideration.
-
-<h4 style="margin:0 10px 0;">GTN-F: A General Tensor-Native Format Representation of Multimodal Data</h4>
-* **Institution**: AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center.
-* **Time**: Jul. 2023 - Jul. 2024
-* **Project Overview**: 
-	1. 0-1 Technology & Research Innovation Project in Huawei. This project aims to solve the problems in large model scenarios like (a) the lack of unified data representation, (b) multiple copies are required due to multiple systems, and (c) difficulties in management and source tracing, thus improving data access and management efficiency.
-	2. GTN-F can convert multi-modal data from different sources with heterogeneous structures into the general tensor format. Based on the chunk storage strategy, GTN-F supports using idx to quickly access all necessary information related to the same sample, improving the random-access efficiency by 2×. 
-	3. GTN-F provides tensor query and materialized view loading functions to facilitate data filtering, and operation commands similar to git are provided to facilitate data version management.
-<h4 style="margin:0 10px 0;">GTN: A General Tensor-Native Data Processing Framework</h4>
-* **Institution**: AI Framework & Data Tech. Lab, Huawei Hong Kong Research Center.
-* **Time**: Dec. 2022 - Jul. 2023
-* **Project Overview**: 
-	1. 0-1 Technology & Research Innovation Project in Huawei. This project aims to leverage tensor abstraction as the basis for automatic optimization and enable the compilation of the same code over heterogeneous hardware.  
-	2. With GTN, the computation process of large-scale feature engineering tasks can be converted into Tensor plus Tensor Operators.
-	3. By extensive experiments, it is verified that target tasks can be deployed on heterogeneous hardware to achieve acceleration optimization: compared with the common CPU baseline, the efficiency can be improved by 100× in 70% verification scenarios.
-
+Welcome! This is Rui's homepage. I earned my Ph.D. degree in September 2022 at the [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/) (EEE), [The University of Hong Kong](https://www.hku.hk/), under the supervision of Prof. [Ngai Wong](https://www.eee.hku.hk/~nwong/) and Prof. [Graziano Chesi](https://www.eee.hku.hk/~chesi/). Prior to that, I received my B.S. degree in the [School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/) from [Wuhan University](https://en.whu.edu.cn/) in June 2018.
 
 ## Publications
 <h4 style="margin:0 10px 0;">Journal</h4>
@@ -76,5 +51,3 @@ Welcome! I am a Researcher (Dec. 2022 - present) in the AI Framework & Data Tech
     For switch, [*Spiritfarer*](https://www.nintendo.com/games/detail/spiritfarer-switch/) is the most touching game I have ever played, which is related to hospice care. My favourite game is [*The Legend of Zelda: Breath of the Wild*](https://www.zelda.com/breath-of-the-wild/), I like the feeling to take adventure on the mainland of Hyrule with my shining Master Sword and Master Cycle Zero. \\
     To maintain good physical and mental health, I do exercise regularly like hiking, and boxing, etc. I took [this photo](\files\fig\Victoria_Peak.jpg) when hiking Victoria Peak in May 2020.
 4. I do **not** think I am a very talented researcher, but certain that I am a down-to-earth and a hardworking one :P.
-
-The Chinese version of my CV can be downloaded [here](./files/pdf/LINRUI_CV_Chinese_2024.pdf).
