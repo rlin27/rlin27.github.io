@@ -207,7 +207,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 0;
     }
 
       .image.avatar:before {
@@ -215,8 +215,8 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
+        border-radius: 0;
+        width: 65%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -225,7 +225,7 @@ papertitle {
 
     #header .image.avatar {
       margin: 0 0 1em 0;
-      width: 8.00em;
+      width: 12.00em;
     }
 
 h3, h4, h5, h6 {
@@ -298,6 +298,7 @@ a:hover small {
 .wrapper {
   width:960px;
   margin:0 auto;
+  padding-top: 60px;
 }
 
 blockquote {
@@ -360,7 +361,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top:4.0em;
+  padding-top:5.5em;
   text-align:center
 }
 
@@ -434,8 +435,88 @@ header ul a strong {
 section {
   width:650px;
   float:right;
-  padding-top:4.0em;
+  padding-top:5.5em;
   padding-bottom:50px;
+}
+
+.main-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  .main-nav {
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #333;
+  }
+}
+
+.main-nav ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 960px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+.main-nav li {
+  margin: 0;
+  padding: 0;
+  border: none;
+  float: none;
+  width: auto;
+  height: auto;
+}
+
+.main-nav a {
+  display: block;
+  padding: 15px 25px;
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  border-radius: 0;
+  line-height: 20px;
+  height: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .main-nav a {
+    color: #eeeff0;
+  }
+}
+
+.main-nav a:hover {
+  color: #39c;
+  background-color: #f8f8f8;
+}
+
+@media (prefers-color-scheme: dark) {
+  .main-nav a:hover {
+    color: #3eb7f0;
+    background-color: #2a2a2a;
+  }
+}
+
+.main-nav a:active {
+  background-color: #f0f0f0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .main-nav a:active {
+    background-color: #333;
+  }
 }
 
 small {
@@ -499,8 +580,8 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
+        border-radius: 0;
+        width: 160px;
         padding:20px;
       }
   #head1o2 {
@@ -531,6 +612,17 @@ footer {
     
   }
 
+  .main-nav ul {
+    flex-wrap: wrap;
+    height: auto;
+    min-height: 50px;
+  }
+
+  .main-nav a {
+    padding: 12px 15px;
+    font-size: 13px;
+  }
+
   pre, code {
     word-wrap:normal;
   }
@@ -554,9 +646,34 @@ footer {
     width:33%;
   }
 
+  .main-nav ul {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .main-nav li {
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .main-nav li {
+      border-bottom: 1px solid #333;
+    }
+  }
+
+  .main-nav a {
+    padding: 12px 20px;
+    text-align: left;
+  }
+
+  .main-nav li:last-child {
+    border-bottom: none;
+  }
+
   .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
+      border-radius: 0;
+      width: 130px;
       padding:20px;
   }
   #head1o2 {
@@ -586,6 +703,62 @@ footer {
 .fakelink {
   text-decoration: none;
   cursor: pointer;
+}
+
+/* Publication link icons styling */
+a i.fas, a i.fab {
+  margin-right: 4px;
+  font-size: 0.9em;
+}
+
+a i.fa-file-pdf {
+  color: #d32f2f;
+}
+
+a i.fab.fa-github {
+  color: #333;
+}
+
+a i.fa-file-image, a i.fa-chalkboard {
+  color: #1976d2;
+}
+
+a:hover i.fa-file-pdf {
+  color: #b71c1c;
+}
+
+a:hover i.fab.fa-github {
+  color: #000;
+}
+
+a:hover i.fa-file-image, a:hover i.fa-chalkboard {
+  color: #1565c0;
+}
+
+@media (prefers-color-scheme: dark) {
+  a i.fa-file-pdf {
+    color: #ef5350;
+  }
+
+  a i.fab.fa-github {
+    color: #eeeff0;
+  }
+
+  a i.fa-file-image, a i.fa-chalkboard {
+    color: #64b5f6;
+  }
+
+  a:hover i.fa-file-pdf {
+    color: #e57373;
+  }
+
+  a:hover i.fab.fa-github {
+    color: #fff;
+  }
+
+  a:hover i.fa-file-image, a:hover i.fa-chalkboard {
+    color: #90caf9;
+  }
 }
 
 .bibref {
